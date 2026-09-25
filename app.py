@@ -55,7 +55,7 @@ def home():
     </head>
     <body>
         <div class="card">
-            <h1>Hello, World!</h1>
+            <h1>Hello, World! - v1</h1>
             <p>Welcome to your native FastAPI user interface.</p>
             <span class="badge">Status: Running</span>
         </div>
